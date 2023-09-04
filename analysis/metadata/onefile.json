@@ -1,0 +1,32 @@
+{
+    "TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8____t_": {
+        "files": [
+            "root://xrootd-cms.infn.it//store/user/mwassmer/customNano/TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/KITv2_CustomNanoV9_MC_2018/220830_114130/0000/MC_2018_NanoAODv9_3-746.root"
+        ],
+        "xs": 365.457361349
+    },
+    "Z2JetsToNuNu_M-50_LHEFilterPtZ-150To250_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8____1_": {
+        "files": [
+            "root://xrootd-cms.infn.it//store/user/swieland/customNano/Z2JetsToNuNu_M-50_LHEFilterPtZ-150To250_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/KITv2_CustomNanoV9_MC_2018/220830_112802/0000/MC_2018_NanoAODv9_422.root"
+        ],
+        "xs": 28.8
+    },
+    "QCD_Pt_30to50_TuneCP5_13TeV_pythia8____1_": {
+        "files": [
+            "root://xrootd-cms.infn.it//store/user/mwassmer/customNano/QCD_Pt_30to50_TuneCP5_13TeV_pythia8/KITv2_CustomNanoV9_MC_2018/220830_112603/0000/MC_2018_NanoAODv9_15.root"
+        ],
+        "xs": 106800000.0
+    },
+    "METB____1_": {
+        "files": [
+            "root://xrootd-cms.infn.it//store/user/swieland/customNano/MET/KITv2_CustomNanoV9_Data_2018B/220830_111532/0000/DATA_2018_NanoAODv9_10.root"
+        ],
+        "xs": -1
+    },
+    "WJetsToLNu_1J_TuneCP5_13TeV-amcatnloFXFX-pythia8____5_": {
+        "files": [
+            "root://xrootd-cms.infn.it//store/user/mwassmer/customNano/WJetsToLNu_1J_TuneCP5_13TeV-amcatnloFXFX-pythia8/KITv2_CustomNanoV9_MC_2018/220830_114326/0000/MC_2018_NanoAODv9_1-2.root"
+        ],
+        "xs": 8947.0
+    }
+}

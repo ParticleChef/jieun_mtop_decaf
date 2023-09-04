@@ -1,0 +1,20 @@
+{
+    "Mphi-2500_Mchi-750____0_": {
+        "files": [
+            "root://cmseos.fnal.gov//store/group/lpcmetx/Monotop/signal_UL2017_NanoAOD/Mphi-2500_Mchi-750/Mphi-2500_Mchi-750_21415021.root"
+        ],
+        "xs": 1.0
+        },
+    "Mphi-2500_Mchi-2000____0_": {
+        "files": [
+            "root://cmseos.fnal.gov//store/group/lpcmetx/Monotop/signal_UL2017_NanoAOD/Mphi-2500_Mchi-2000/Mphi-2500_Mchi-2000_30149289.root"
+        ],
+        "xs": 1.0
+        },
+    "Mphi-2495_Mchi-1250____0_": {
+        "files": [
+            "root://cmseos.fnal.gov//store/group/lpcmetx/Monotop/signal_UL2017_NanoAOD/Mphi-2495_Mchi-1250/Mphi-2495_Mchi-1250_39079590.root"
+        ],
+        "xs": 1.0
+        }
+}
