@@ -1,0 +1,966 @@
+"2018":
+    DYJetsToLL_LHEFilterPtZ-0To50_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+        tags: ['phys03', 'mc', 'DYJetsToLL', 'ul', '2018', 'customnanov9', 'dyjetstoll']
+        dbs:
+            /DYJetsToLL_LHEFilterPtZ-0To50_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           1490.0
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   4368.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    DYJetsToLL_LHEFilterPtZ-50To100_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+        tags: ['phys03', 'mc', 'DYJetsToLL', 'ul', '2018', 'customnanov9', 'dyjetstoll']
+        dbs:
+            /DYJetsToLL_LHEFilterPtZ-50To100_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           399.0
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   4368.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    DYJetsToLL_LHEFilterPtZ-100To250_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+        tags: ['phys03', 'mc', 'DYJetsToLL', 'ul', '2018', 'customnanov9', 'dyjetstoll']
+        dbs:
+            /DYJetsToLL_LHEFilterPtZ-100To250_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           96.22
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   4368.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    DYJetsToLL_LHEFilterPtZ-250To400_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+        tags: ['phys03', 'mc', 'DYJetsToLL', 'ul', '2018', 'customnanov9', 'dyjetstoll']
+        dbs:
+            /DYJetsToLL_LHEFilterPtZ-250To400_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           3.732
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   4368.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    DYJetsToLL_LHEFilterPtZ-400To650_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+        tags: ['phys03', 'mc', 'DYJetsToLL', 'ul', '2018', 'customnanov9', 'dyjetstoll']
+        dbs:
+            /DYJetsToLL_LHEFilterPtZ-400To650_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           0.5048
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   4368.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    DYJetsToLL_LHEFilterPtZ-650ToInf_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+        tags: ['phys03', 'mc', 'DYJetsToLL', 'ul', '2018', 'customnanov9', 'dyjetstoll']
+        dbs:
+            /DYJetsToLL_LHEFilterPtZ-650ToInf_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           0.04736
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   4368.0
+        isTopNanoAOD: False
+        split:        lumi
+
+
+    # DYJetsToLL_0J_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+    #     tags: ['phys03', 'mc', 'DYJetsToLL', 'ul', '2018', 'customnanov9', 'dyjetstoll']
+    #     dbs:
+    #         /DYJetsToLL_0J_TuneCP5_13TeV-amcatnloFXFX-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+    #     xs:           5125.0
+    #     source:       phys03
+    #     isData:       False
+    #     jec:          Total
+    #     throughput:   4368.0
+    #     isTopNanoAOD: False
+    #     split:        lumi
+
+    # DYJetsToLL_1J_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+    #     tags: ['phys03', 'mc', 'DYJetsToLL', 'ul', '2018', 'customnanov9', 'dyjetstoll']
+    #     dbs:
+    #         /DYJetsToLL_1J_TuneCP5_13TeV-amcatnloFXFX-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+    #     xs:           951.4
+    #     source:       phys03
+    #     isData:       False
+    #     jec:          Total
+    #     throughput:   4362.0
+    #     isTopNanoAOD: False
+    #     split:        lumi
+
+    # DYJetsToLL_2J_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+    #     tags: ['phys03', 'mc', 'DYJetsToLL', 'ul', '2018', 'customnanov9', 'dyjetstoll']
+    #     dbs:
+    #         /DYJetsToLL_2J_TuneCP5_13TeV-amcatnloFXFX-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+    #     xs:           358.3
+    #     source:       phys03
+    #     isData:       False
+    #     jec:          Total
+    #     throughput:   3174.0
+    #     isTopNanoAOD: False
+    #     split:        lumi
+
+    # DYJetsToLL_Pt-100To250_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+    #     tags: ['phys03', 'mc', 'DYJetsToLL', 'ul', '2018', 'customnanov9', 'dyjetstoll']
+    #     dbs:
+    #         /DYJetsToLL_Pt-100To250_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+    #     xs:           94.39
+    #     source:       phys03
+    #     isData:       False
+    #     jec:          Total
+    #     throughput:   1512.0
+    #     isTopNanoAOD: False
+    #     split:        lumi
+
+    # DYJetsToLL_Pt-250To400_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+    #     tags: ['phys03', 'mc', 'DYJetsToLL', 'ul', '2018', 'customnanov9', 'dyjetstoll']
+    #     dbs:
+    #         /DYJetsToLL_Pt-250To400_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+    #     xs:           3.656
+    #     source:       phys03
+    #     isData:       False
+    #     jec:          Total
+    #     throughput:   588.0
+    #     isTopNanoAOD: False
+    #     split:        lumi
+
+    # DYJetsToLL_Pt-400To650_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+    #     tags: ['phys03', 'mc', 'DYJetsToLL', 'ul', '2018', 'customnanov9', 'dyjetstoll']
+    #     dbs:
+    #         /DYJetsToLL_Pt-400To650_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+    #     xs:           0.4969
+    #     source:       phys03
+    #     isData:       False
+    #     jec:          Total
+    #     throughput:   510.0
+    #     isTopNanoAOD: False
+    #     split:        lumi
+
+    # DYJetsToLL_Pt-50To100_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+    #     tags: ['phys03', 'mc', 'DYJetsToLL', 'ul', '2018', 'customnanov9', 'dyjetstoll']
+    #     dbs:
+    #         /DYJetsToLL_Pt-50To100_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+    #     xs:           395.1
+    #     source:       phys03
+    #     isData:       False
+    #     jec:          Total
+    #     throughput:   3630.0
+    #     isTopNanoAOD: False
+    #     split:        lumi
+
+    # DYJetsToLL_Pt-650ToInf_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+    #     tags: ['phys03', 'mc', 'DYJetsToLL', 'ul', '2018', 'customnanov9', 'dyjetstoll']
+    #     dbs:
+    #         /DYJetsToLL_Pt-650ToInf_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+    #     xs:           0.04689
+    #     source:       phys03
+    #     isData:       False
+    #     jec:          Total
+    #     throughput:   462.0
+    #     isTopNanoAOD: False
+    #     split:        lumi
+
+    EGamma_KITv2_CustomNanoV9_Data_2018A:
+        tags: ['phys03', 'ul', '2018', 'customnanov9', 'egamma', 'data', 'EGamma']
+        dbs:
+            /EGamma/mwassmer-KITv2_CustomNanoV9_Data_2018A-8572fdae940d4a6b8cd6e01ebd9b6132/USER
+        xs:           1.0
+        source:       phys03
+        isData:       True
+        jec:          None
+        throughput:   7974.0
+        lumiMask:     /afs/cern.ch/cms/CAF/CMSCOMM/COMM_DQM/certification/Collisions18/13TeV/Legacy_2018/Cert_314472-325175_13TeV_Legacy2018_Collisions18_JSON.txt
+        isTopNanoAOD: False
+        split:        lumi
+
+    EGamma_KITv2_CustomNanoV9_Data_2018B:
+        tags: ['phys03', 'ul', '2018', 'customnanov9', 'egamma', 'data', 'EGamma']
+        dbs:
+            /EGamma/mwassmer-KITv2_CustomNanoV9_Data_2018B-8572fdae940d4a6b8cd6e01ebd9b6132/USER
+        xs:           1.0
+        source:       phys03
+        isData:       True
+        jec:          None
+        throughput:   9342.0
+        lumiMask:     /afs/cern.ch/cms/CAF/CMSCOMM/COMM_DQM/certification/Collisions18/13TeV/Legacy_2018/Cert_314472-325175_13TeV_Legacy2018_Collisions18_JSON.txt
+        isTopNanoAOD: False
+        split:        lumi
+
+    EGamma_KITv2_CustomNanoV9_Data_2018C:
+        tags: ['phys03', 'ul', '2018', 'customnanov9', 'egamma', 'data', 'EGamma']
+        dbs:
+            /EGamma/mwassmer-KITv2_CustomNanoV9_Data_2018C-8572fdae940d4a6b8cd6e01ebd9b6132/USER
+        xs:           1.0
+        source:       phys03
+        isData:       True
+        jec:          None
+        throughput:   8952.0
+        lumiMask:     /afs/cern.ch/cms/CAF/CMSCOMM/COMM_DQM/certification/Collisions18/13TeV/Legacy_2018/Cert_314472-325175_13TeV_Legacy2018_Collisions18_JSON.txt
+        isTopNanoAOD: False
+        split:        lumi
+
+    EGamma_KITv2_CustomNanoV9_Data_2018D:
+        tags: ['phys03', 'ul', '2018', 'customnanov9', 'egamma', 'data', 'EGamma']
+        dbs:
+            /EGamma/mwassmer-KITv2_CustomNanoV9_Data_2018D-8572fdae940d4a6b8cd6e01ebd9b6132/USER
+        xs:           1.0
+        source:       phys03
+        isData:       True
+        jec:          None
+        throughput:   7000.0
+        lumiMask:     /afs/cern.ch/cms/CAF/CMSCOMM/COMM_DQM/certification/Collisions18/13TeV/Legacy_2018/Cert_314472-325175_13TeV_Legacy2018_Collisions18_JSON.txt
+        isTopNanoAOD: False
+        split:        lumi
+
+    MET_KITv2_CustomNanoV9_Data_2018A:
+        tags: ['phys03', 'ul', 'met', '2018', 'customnanov9', 'data', 'MET']
+        dbs:
+            /MET/swieland-KITv2_CustomNanoV9_Data_2018A-8572fdae940d4a6b8cd6e01ebd9b6132/USER
+        xs:           1.0
+        source:       phys03
+        isData:       True
+        jec:          None
+        throughput:   8940.0
+        lumiMask:     /afs/cern.ch/cms/CAF/CMSCOMM/COMM_DQM/certification/Collisions18/13TeV/Legacy_2018/Cert_314472-325175_13TeV_Legacy2018_Collisions18_JSON.txt
+        isTopNanoAOD: False
+        split:        lumi
+
+    MET_KITv2_CustomNanoV9_Data_2018B:
+        tags: ['phys03', 'ul', 'met', '2018', 'customnanov9', 'data', 'MET']
+        dbs:
+            /MET/swieland-KITv2_CustomNanoV9_Data_2018B-8572fdae940d4a6b8cd6e01ebd9b6132/USER
+        xs:           1.0
+        source:       phys03
+        isData:       True
+        jec:          None
+        throughput:   8460.0
+        lumiMask:     /afs/cern.ch/cms/CAF/CMSCOMM/COMM_DQM/certification/Collisions18/13TeV/Legacy_2018/Cert_314472-325175_13TeV_Legacy2018_Collisions18_JSON.txt
+        isTopNanoAOD: False
+        split:        lumi
+
+    MET_KITv2_CustomNanoV9_Data_2018C:
+        tags: ['phys03', 'ul', 'met', '2018', 'customnanov9', 'data', 'MET']
+        dbs:
+            /MET/swieland-KITv2_CustomNanoV9_Data_2018C-8572fdae940d4a6b8cd6e01ebd9b6132/USER
+        xs:           1.0
+        source:       phys03
+        isData:       True
+        jec:          None
+        throughput:   7572.0
+        lumiMask:     /afs/cern.ch/cms/CAF/CMSCOMM/COMM_DQM/certification/Collisions18/13TeV/Legacy_2018/Cert_314472-325175_13TeV_Legacy2018_Collisions18_JSON.txt
+        isTopNanoAOD: False
+        split:        lumi
+
+    MET_KITv2_CustomNanoV9_Data_2018D:
+        tags: ['phys03', 'ul', 'met', '2018', 'customnanov9', 'data', 'MET']
+        dbs:
+            /MET/swieland-KITv2_CustomNanoV9_Data_2018D-8572fdae940d4a6b8cd6e01ebd9b6132/USER
+        xs:           1.0
+        source:       phys03
+        isData:       True
+        jec:          None
+        throughput:   3000.0
+        lumiMask:     /afs/cern.ch/cms/CAF/CMSCOMM/COMM_DQM/certification/Collisions18/13TeV/Legacy_2018/Cert_314472-325175_13TeV_Legacy2018_Collisions18_JSON.txt
+        isTopNanoAOD: False
+        split:        lumi
+
+    JetHT_KITv2_CustomNanoV9_Data_2018A:
+        tags: ['phys03', 'ul', 'met', '2018', 'customnanov9', 'data', 'JetHT']
+        dbs:
+            /JetHT/mwassmer-KITv2_CustomNanoV9_Data_2018A-8572fdae940d4a6b8cd6e01ebd9b6132/USER
+        xs:           1.0
+        source:       phys03
+        isData:       True
+        jec:          None
+        throughput:   3000.0
+        lumiMask:     /afs/cern.ch/cms/CAF/CMSCOMM/COMM_DQM/certification/Collisions18/13TeV/Legacy_2018/Cert_314472-325175_13TeV_Legacy2018_Collisions18_JSON.txt
+        isTopNanoAOD: False
+        split:        lumi
+
+    JetHT_KITv2_CustomNanoV9_Data_2018B:
+        tags: ['phys03', 'ul', 'met', '2018', 'customnanov9', 'data', 'JetHT']
+        dbs:
+            /JetHT/mwassmer-KITv2_CustomNanoV9_Data_2018B-8572fdae940d4a6b8cd6e01ebd9b6132/USER
+        xs:           1.0
+        source:       phys03
+        isData:       True
+        jec:          None
+        throughput:   3000.0
+        lumiMask:     /afs/cern.ch/cms/CAF/CMSCOMM/COMM_DQM/certification/Collisions18/13TeV/Legacy_2018/Cert_314472-325175_13TeV_Legacy2018_Collisions18_JSON.txt
+        isTopNanoAOD: False
+        split:        lumi
+
+    JetHT_KITv2_CustomNanoV9_Data_2018C:
+        tags: ['phys03', 'ul', 'met', '2018', 'customnanov9', 'data', 'JetHT']
+        dbs:
+            /JetHT/mwassmer-KITv2_CustomNanoV9_Data_2018C-8572fdae940d4a6b8cd6e01ebd9b6132/USER
+        xs:           1.0
+        source:       phys03
+        isData:       True
+        jec:          None
+        throughput:   3000.0
+        lumiMask:     /afs/cern.ch/cms/CAF/CMSCOMM/COMM_DQM/certification/Collisions18/13TeV/Legacy_2018/Cert_314472-325175_13TeV_Legacy2018_Collisions18_JSON.txt
+        isTopNanoAOD: False
+        split:        lumi
+
+    JetHT_KITv2_CustomNanoV9_Data_2018D:
+        tags: ['phys03', 'ul', 'met', '2018', 'customnanov9', 'data', 'JetHT']
+        dbs:
+            /JetHT/mwassmer-KITv2_CustomNanoV9_Data_2018D-8572fdae940d4a6b8cd6e01ebd9b6132/USER
+        xs:           1.0
+        source:       phys03
+        isData:       True
+        jec:          None
+        throughput:   3000.0
+        lumiMask:     /afs/cern.ch/cms/CAF/CMSCOMM/COMM_DQM/certification/Collisions18/13TeV/Legacy_2018/Cert_314472-325175_13TeV_Legacy2018_Collisions18_JSON.txt
+        isTopNanoAOD: False
+        split:        lumi
+
+    QCD_Pt_1000to1400_TuneCP5_13TeV_pythia8:
+        tags: ['phys03', 'mc', 'QCD', 'ul', '2018', 'qcd', 'customnanov9']
+        dbs:
+            /QCD_Pt_1000to1400_TuneCP5_13TeV_pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           7.482
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   1656.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    QCD_Pt_120to170_TuneCP5_13TeV_pythia8:
+        tags: ['phys03', 'mc', 'QCD', 'ul', '2018', 'qcd', 'customnanov9']
+        dbs:
+            /QCD_Pt_120to170_TuneCP5_13TeV_pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           407500.0
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   3408.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    QCD_Pt_1400to1800_TuneCP5_13TeV_pythia8:
+        tags: ['phys03', 'mc', 'QCD', 'ul', '2018', 'qcd', 'customnanov9']
+        dbs:
+            /QCD_Pt_1400to1800_TuneCP5_13TeV_pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           0.1259
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   1284.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    QCD_Pt_15to30_TuneCP5_13TeV_pythia8:
+        tags: ['phys03', 'mc', 'QCD', 'ul', '2018', 'qcd', 'customnanov9']
+        dbs:
+            /QCD_Pt_15to30_TuneCP5_13TeV_pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           1246000000.0
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   4872.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    QCD_Pt_170to300_TuneCP5_13TeV_pythia8:
+        tags: ['phys03', 'mc', 'QCD', 'ul', '2018', 'qcd', 'customnanov9']
+        dbs:
+            /QCD_Pt_170to300_TuneCP5_13TeV_pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           103600.0
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   3792.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    QCD_Pt_1800to2400_TuneCP5_13TeV_pythia8:
+        tags: ['phys03', 'mc', 'QCD', 'ul', '2018', 'qcd', 'customnanov9']
+        dbs:
+            /QCD_Pt_1800to2400_TuneCP5_13TeV_pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           0.08748
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   1182.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    QCD_Pt_2400to3200_TuneCP5_13TeV_pythia8:
+        tags: ['phys03', 'mc', 'QCD', 'ul', '2018', 'qcd', 'customnanov9']
+        dbs:
+            /QCD_Pt_2400to3200_TuneCP5_13TeV_pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           0.005236
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   990.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    QCD_Pt_300to470_TuneCP5_13TeV_pythia8:
+        tags: ['phys03', 'mc', 'QCD', 'ul', '2018', 'qcd', 'customnanov9']
+        dbs:
+            /QCD_Pt_300to470_TuneCP5_13TeV_pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           6831.0
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   3246.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    QCD_Pt_30to50_TuneCP5_13TeV_pythia8:
+        tags: ['phys03', 'mc', 'QCD', 'ul', '2018', 'qcd', 'customnanov9']
+        dbs:
+            /QCD_Pt_30to50_TuneCP5_13TeV_pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           106800000.0
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   5070.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    QCD_Pt_3200toInf_TuneCP5_13TeV_pythia8:
+        tags: ['phys03', 'mc', 'QCD', 'ul', '2018', 'qcd', 'customnanov9']
+        dbs:
+            /QCD_Pt_3200toInf_TuneCP5_13TeV_pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           0.0001351
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   804.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    QCD_Pt_470to600_TuneCP5_13TeV_pythia8:
+        tags: ['phys03', 'mc', 'QCD', 'ul', '2018', 'qcd', 'customnanov9']
+        dbs:
+            /QCD_Pt_470to600_TuneCP5_13TeV_pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           551.3
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   2622.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    QCD_Pt_50to80_TuneCP5_13TeV_pythia8:
+        tags: ['phys03', 'mc', 'QCD', 'ul', '2018', 'qcd', 'customnanov9']
+        dbs:
+            /QCD_Pt_50to80_TuneCP5_13TeV_pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           15690000.0
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   4878.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    QCD_Pt_600to800_TuneCP5_13TeV_pythia8:
+        tags: ['phys03', 'mc', 'QCD', 'ul', '2018', 'qcd', 'customnanov9']
+        dbs:
+            /QCD_Pt_600to800_TuneCP5_13TeV_pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           156.5
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   2238.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    QCD_Pt_800to1000_TuneCP5_13TeV_pythia8:
+        tags: ['phys03', 'mc', 'QCD', 'ul', '2018', 'qcd', 'customnanov9']
+        dbs:
+            /QCD_Pt_800to1000_TuneCP5_13TeV_pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           26.25
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   1980.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    QCD_Pt_80to120_TuneCP5_13TeV_pythia8:
+        tags: ['phys03', 'mc', 'QCD', 'ul', '2018', 'qcd', 'customnanov9']
+        dbs:
+            /QCD_Pt_80to120_TuneCP5_13TeV_pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           2341000.0
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   4608.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    ST_s-channel_4f_leptonDecays_TuneCP5_13TeV-amcatnlo-pythia8:
+        tags: ['phys03', 'mc', 'st', 'ul', '2018', 'customnanov9', 'ST']
+        dbs:
+            /ST_s-channel_4f_leptonDecays_TuneCP5_13TeV-amcatnlo-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           3.3024
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   3024.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    ST_t-channel_antitop_4f_InclusiveDecays_TuneCP5_13TeV-powheg-madspin-pythia8:
+        tags: ['phys03', 'mc', 'st', 'ul', '2018', 'customnanov9', 'ST']
+        dbs:
+            /ST_t-channel_antitop_4f_InclusiveDecays_TuneCP5_13TeV-powheg-madspin-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           80.95
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   3828.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    ST_t-channel_top_4f_InclusiveDecays_TuneCP5_13TeV-powheg-madspin-pythia8:
+        tags: ['phys03', 'mc', 'st', 'ul', '2018', 'customnanov9', 'ST']
+        dbs:
+            /ST_t-channel_top_4f_InclusiveDecays_TuneCP5_13TeV-powheg-madspin-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           136.02
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   3702.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    ST_tW_antitop_5f_inclusiveDecays_TuneCP5_13TeV-powheg-pythia8:
+        tags: ['phys03', 'mc', 'st', 'ul', '2018', 'customnanov9', 'ST']
+        dbs:
+            /ST_tW_antitop_5f_inclusiveDecays_TuneCP5_13TeV-powheg-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           35.85
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   2262.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    ST_tW_top_5f_inclusiveDecays_TuneCP5_13TeV-powheg-pythia8:
+        tags: ['phys03', 'mc', 'st', 'ul', '2018', 'customnanov9', 'ST']
+        dbs:
+            /ST_tW_top_5f_inclusiveDecays_TuneCP5_13TeV-powheg-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           35.85
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   2232.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    SingleMuon_KITv2_CustomNanoV9_Data_2018A:
+        tags: ['phys03', 'ul', 'singlemuon', '2018', 'SingleMuon', 'customnanov9', 'data']
+        dbs:
+            /SingleMuon/swieland-KITv2_CustomNanoV9_Data_2018A-8572fdae940d4a6b8cd6e01ebd9b6132/USER
+        xs:           1.0
+        source:       phys03
+        isData:       True
+        jec:          None
+        throughput:   10404.0
+        lumiMask:     /afs/cern.ch/cms/CAF/CMSCOMM/COMM_DQM/certification/Collisions18/13TeV/Legacy_2018/Cert_314472-325175_13TeV_Legacy2018_Collisions18_JSON.txt
+        isTopNanoAOD: False
+        split:        lumi
+
+    SingleMuon_KITv2_CustomNanoV9_Data_2018B:
+        tags: ['phys03', 'ul', 'singlemuon', '2018', 'SingleMuon', 'customnanov9', 'data']
+        dbs:
+            /SingleMuon/swieland-KITv2_CustomNanoV9_Data_2018B-8572fdae940d4a6b8cd6e01ebd9b6132/USER
+        xs:           1.0
+        source:       phys03
+        isData:       True
+        jec:          None
+        throughput:   7752.0
+        lumiMask:     /afs/cern.ch/cms/CAF/CMSCOMM/COMM_DQM/certification/Collisions18/13TeV/Legacy_2018/Cert_314472-325175_13TeV_Legacy2018_Collisions18_JSON.txt
+        isTopNanoAOD: False
+        split:        lumi
+
+    SingleMuon_KITv2_CustomNanoV9_Data_2018C:
+        tags: ['phys03', 'ul', 'singlemuon', '2018', 'SingleMuon', 'customnanov9', 'data']
+        dbs:
+            /SingleMuon/swieland-KITv2_CustomNanoV9_Data_2018C-8572fdae940d4a6b8cd6e01ebd9b6132/USER
+        xs:           1.0
+        source:       phys03
+        isData:       True
+        jec:          None
+        throughput:   10380.0
+        lumiMask:     /afs/cern.ch/cms/CAF/CMSCOMM/COMM_DQM/certification/Collisions18/13TeV/Legacy_2018/Cert_314472-325175_13TeV_Legacy2018_Collisions18_JSON.txt
+        isTopNanoAOD: False
+        split:        lumi
+
+    SingleMuon_KITv2_CustomNanoV9_Data_2018D:
+        tags: ['phys03', 'ul', 'singlemuon', '2018', 'SingleMuon', 'customnanov9', 'data']
+        dbs:
+            /SingleMuon/swieland-KITv2_CustomNanoV9_Data_2018D-8572fdae940d4a6b8cd6e01ebd9b6132/USER
+        xs:           1.0
+        source:       phys03
+        isData:       True
+        jec:          None
+        throughput:   8000.0
+        lumiMask:     /afs/cern.ch/cms/CAF/CMSCOMM/COMM_DQM/certification/Collisions18/13TeV/Legacy_2018/Cert_314472-325175_13TeV_Legacy2018_Collisions18_JSON.txt
+        isTopNanoAOD: False
+        split:        lumi
+
+    TTTo2L2Nu_TuneCP5_13TeV-powheg-pythia8:
+        tags: ['phys03', 'mc', 'ttto2l2nu', 'TTTo2L2Nu', 'ul', '2018', 'customnanov9']
+        dbs:
+            /TTTo2L2Nu_TuneCP5_13TeV-powheg-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           88.3419033256
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   1000.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    TTToHadronic_TuneCP5_13TeV-powheg-pythia8:
+        tags: ['tttohadronic', 'phys03', 'mc', 'ul', 'TTToHadronic', '2018', 'customnanov9']
+        dbs:
+            /TTToHadronic_TuneCP5_13TeV-powheg-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           377.960735326
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   2000.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8:
+        tags: ['TTToSemiLeptonic', 'phys03', 'mc', 'ul', '2018', 'customnanov9', 'tttosemileptonic']
+        dbs:
+            /TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           365.457361349
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   1200.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    WJetsToLNu_0J_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+        tags: ['phys03', 'mc', 'wjetstolnu', 'WJetsToLNu', 'ul', '2018', 'customnanov9']
+        dbs:
+            /WJetsToLNu_0J_TuneCP5_13TeV-amcatnloFXFX-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           53300.0
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   5130.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    WJetsToLNu_1J_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+        tags: ['phys03', 'mc', 'wjetstolnu', 'WJetsToLNu', 'ul', '2018', 'customnanov9']
+        dbs:
+            /WJetsToLNu_1J_TuneCP5_13TeV-amcatnloFXFX-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           8947.0
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   4278.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    WJetsToLNu_2J_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+        tags: ['phys03', 'mc', 'wjetstolnu', 'WJetsToLNu', 'ul', '2018', 'customnanov9']
+        dbs:
+            /WJetsToLNu_2J_TuneCP5_13TeV-amcatnloFXFX-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           3335.0
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   3150.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    WJetsToLNu_Pt-100To250_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+        tags: ['phys03', 'mc', 'wjetstolnu', 'WJetsToLNu', 'ul', '2018', 'customnanov9']
+        dbs:
+            /WJetsToLNu_Pt-100To250_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           757.7
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   1722.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    WJetsToLNu_Pt-250To400_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+        tags: ['phys03', 'mc', 'wjetstolnu', 'WJetsToLNu', 'ul', '2018', 'customnanov9', "this"]
+        dbs:
+            /WJetsToLNu_Pt-250To400_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           27.53
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   200.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    WJetsToLNu_Pt-400To600_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+        tags: ['phys03', 'mc', 'wjetstolnu', 'WJetsToLNu', 'ul', '2018', 'customnanov9']
+        dbs:
+            /WJetsToLNu_Pt-400To600_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           3.511
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   510.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    WJetsToLNu_Pt-600ToInf_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+        tags: ['phys03', 'mc', 'wjetstolnu', 'WJetsToLNu', 'ul', '2018', 'customnanov9']
+        dbs:
+            /WJetsToLNu_Pt-600ToInf_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           0.5426
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   492.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    WJetsToQQ_HT-200to400_TuneCP5_13TeV-madgraphMLM-pythia8:
+        tags: ['phys03', 'mc', 'wjetstoqq', 'WJetsToQQ', 'ul', '2018', 'customnanov9']
+        dbs:
+            /WJetsToQQ_HT-200to400_TuneCP5_13TeV-madgraphMLM-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           1.
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   492.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    WJetsToQQ_HT-400to600_TuneCP5_13TeV-madgraphMLM-pythia8:
+        tags: ['phys03', 'mc', 'wjetstoqq', 'WJetsToQQ', 'ul', '2018', 'customnanov9']
+        dbs:
+            /WJetsToQQ_HT-400to600_TuneCP5_13TeV-madgraphMLM-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           1.
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   492.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    WJetsToQQ_HT-600to800_TuneCP5_13TeV-madgraphMLM-pythia8:
+        tags: ['phys03', 'mc', 'wjetstoqq', 'WJetsToQQ', 'ul', '2018', 'customnanov9']
+        dbs:
+            /WJetsToQQ_HT-600to800_TuneCP5_13TeV-madgraphMLM-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           1.
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   492.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    WJetsToQQ_HT-800toInf_TuneCP5_13TeV-madgraphMLM-pythia8:
+        tags: ['phys03', 'mc', 'wjetstoqq', 'WJetsToQQ', 'ul', '2018', 'customnanov9']
+        dbs:
+            /WJetsToQQ_HT-800toInf_TuneCP5_13TeV-madgraphMLM-pythia8/mwassmer-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           1.
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   492.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    WW_TuneCP5_13TeV-pythia8:
+        tags: ['WW', 'phys03', 'mc', 'ww', 'ul', '2018', 'customnanov9']
+        dbs:
+            /WW_TuneCP5_13TeV-pythia8/swieland-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           118.7
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   3666.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    WZ_TuneCP5_13TeV-pythia8:
+        tags: ['phys03', 'mc', 'WZ', 'ul', '2018', 'customnanov9', 'wz']
+        dbs:
+            /WZ_TuneCP5_13TeV-pythia8/swieland-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           65.5443
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   3786.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    Z1JetsToNuNu_M-50_LHEFilterPtZ-150To250_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+        tags: ['phys03', 'mc', 'Z1JetsToNuNu', 'ul', '2018', 'customnanov9', 'z1jetstonunu']
+        dbs:
+            /Z1JetsToNuNu_M-50_LHEFilterPtZ-150To250_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/swieland-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           17.36
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   1194.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    Z1JetsToNuNu_M-50_LHEFilterPtZ-250To400_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+        tags: ['phys03', 'mc', 'Z1JetsToNuNu', 'ul', '2018', 'customnanov9', 'z1jetstonunu']
+        dbs:
+            /Z1JetsToNuNu_M-50_LHEFilterPtZ-250To400_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/swieland-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           1.978
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   200.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    Z1JetsToNuNu_M-50_LHEFilterPtZ-400ToInf_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+        tags: ['phys03', 'mc', 'Z1JetsToNuNu', 'ul', '2018', 'customnanov9', 'z1jetstonunu']
+        dbs:
+            /Z1JetsToNuNu_M-50_LHEFilterPtZ-400ToInf_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/swieland-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           0.2167
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   600.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    Z1JetsToNuNu_M-50_LHEFilterPtZ-50To150_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+        tags: ['phys03', 'mc', 'Z1JetsToNuNu', 'ul', '2018', 'customnanov9', 'z1jetstonunu']
+        dbs:
+            /Z1JetsToNuNu_M-50_LHEFilterPtZ-50To150_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/swieland-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           580.7
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   4800.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    Z2JetsToNuNu_M-50_LHEFilterPtZ-150To250_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+        tags: ['Z2JetsToNuNu', 'phys03', 'mc', 'z2jetstonunu', 'ul', '2018', 'customnanov9']
+        dbs:
+            /Z2JetsToNuNu_M-50_LHEFilterPtZ-150To250_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/swieland-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           28.8
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   1158.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    Z2JetsToNuNu_M-50_LHEFilterPtZ-250To400_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+        tags: ['Z2JetsToNuNu', 'phys03', 'mc', 'z2jetstonunu', 'ul', '2018', 'customnanov9', "this"]
+        dbs:
+            /Z2JetsToNuNu_M-50_LHEFilterPtZ-250To400_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/swieland-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           4.989
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   200.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    Z2JetsToNuNu_M-50_LHEFilterPtZ-400ToInf_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+        tags: ['Z2JetsToNuNu', 'phys03', 'mc', 'z2jetstonunu', 'ul', '2018', 'customnanov9']
+        dbs:
+            /Z2JetsToNuNu_M-50_LHEFilterPtZ-400ToInf_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/swieland-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           0.8162
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   522.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    Z2JetsToNuNu_M-50_LHEFilterPtZ-50To150_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+        tags: ['Z2JetsToNuNu', 'phys03', 'mc', 'z2jetstonunu', 'ul', '2018', 'customnanov9']
+        dbs:
+            /Z2JetsToNuNu_M-50_LHEFilterPtZ-50To150_MatchEWPDG20_TuneCP5_13TeV-amcatnloFXFX-pythia8/swieland-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           314.5
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   4266.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    ZZ_TuneCP5_13TeV-pythia8:
+        tags: ['ZZ', 'phys03', 'mc', 'ul', '2018', 'zz', 'customnanov9']
+        dbs:
+            /ZZ_TuneCP5_13TeV-pythia8/swieland-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           15.8274
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   3564.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    G1Jet_LHEGpT-150To250_TuneCP5_13TeV-amcatnlo-pythia8:
+        tags: ['phys03', 'mc', 'ul', 'g1jet', '2018', 'customnanov9', 'G1Jet']
+        dbs:
+            /G1Jet_LHEGpT-150To250_TuneCP5_13TeV-amcatnlo-pythia8/swieland-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           225.9
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   1692.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    G1Jet_LHEGpT-250To400_TuneCP5_13TeV-amcatnlo-pythia8:
+        tags: ['phys03', 'mc', 'ul', 'g1jet', '2018', 'customnanov9', 'G1Jet']
+        dbs:
+            /G1Jet_LHEGpT-250To400_TuneCP5_13TeV-amcatnlo-pythia8/swieland-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           26.98
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   588.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    G1Jet_LHEGpT-400To675_TuneCP5_13TeV-amcatnlo-pythia8:
+        tags: ['phys03', 'mc', 'ul', 'g1jet', '2018', 'customnanov9', 'G1Jet']
+        dbs:
+            /G1Jet_LHEGpT-400To675_TuneCP5_13TeV-amcatnlo-pythia8/swieland-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           3.395
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   540.0
+        isTopNanoAOD: False
+        split:        lumi
+
+    G1Jet_LHEGpT-675ToInf_TuneCP5_13TeV-amcatnlo-pythia8:
+        tags: ['phys03', 'mc', 'ul', 'g1jet', '2018', 'customnanov9', 'G1Jet']
+        dbs:
+            /G1Jet_LHEGpT-675ToInf_TuneCP5_13TeV-amcatnlo-pythia8/swieland-KITv2_CustomNanoV9_MC_2018-8df5cb2b7a76547c21991083f468dfa2/USER
+        xs:           0.2477
+        source:       phys03
+        isData:       False
+        jec:          Total
+        throughput:   504.0
+        isTopNanoAOD: False
+        split:        lumi
+
