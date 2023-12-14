@@ -35,9 +35,9 @@ class BTagCorrector:
         self.sf = btvjson # ["deepJet_comb", "deepCSV_comb"]
 
         files = {
-            '2016preVFP': 'btageff2016.merged',
-            '2016postVFP': 'btageff2016.merged',
-            '2017': 'btageff2017.merged',
+#            '2016preVFP': 'btageff2016.merged',
+#            '2016postVFP': 'btageff2016.merged',
+#            '2017': 'btageff2017.merged',
             '2018': 'btageff2018.merged',
         }
         filename = 'hists/'+files[year]
@@ -132,30 +132,30 @@ class BTagCorrector:
 
 get_btag_weight = {
     'deepflav': {
-        '2016preVFP': {
-            'loose'  : BTagCorrector('deepflav','2016preVFP','loose').btag_weight,
-            'medium' : BTagCorrector('deepflav','2016preVFP','medium').btag_weight,
-            'tight'  : BTagCorrector('deepflav','2016preVFP','tight').btag_weight
-        },
-        '2016postVFP': {
-            'loose'  : BTagCorrector('deepflav','2016postVFP','loose').btag_weight,
-            'medium' : BTagCorrector('deepflav','2016postVFP','medium').btag_weight,
-            'tight'  : BTagCorrector('deepflav','2016postVFP','tight').btag_weight
-        },
-        '2017': {
-            'loose'  : BTagCorrector('deepflav','2017','loose').btag_weight,
-            'medium' : BTagCorrector('deepflav','2017','medium').btag_weight,
-            'tight'  : BTagCorrector('deepflav','2017','tight').btag_weight
-        },
+#        '2016preVFP': {
+#            'loose'  : BTagCorrector('deepflav','2016preVFP','loose').btag_weight,
+#            'medium' : BTagCorrector('deepflav','2016preVFP','medium').btag_weight,
+#            'tight'  : BTagCorrector('deepflav','2016preVFP','tight').btag_weight
+#        },
+#        '2016postVFP': {
+#            'loose'  : BTagCorrector('deepflav','2016postVFP','loose').btag_weight,
+#            'medium' : BTagCorrector('deepflav','2016postVFP','medium').btag_weight,
+#            'tight'  : BTagCorrector('deepflav','2016postVFP','tight').btag_weight
+#        },
+#        '2017': {
+#            'loose'  : BTagCorrector('deepflav','2017','loose').btag_weight,
+#            'medium' : BTagCorrector('deepflav','2017','medium').btag_weight,
+#            'tight'  : BTagCorrector('deepflav','2017','tight').btag_weight
+#        },
         '2018': {
             'loose'  : BTagCorrector('deepflav','2018','loose').btag_weight,
             'medium' : BTagCorrector('deepflav','2018','medium').btag_weight,
             'tight'  : BTagCorrector('deepflav','2018','tight').btag_weight
-}
-
-
+            }
+        }
+    }
 corrections = {
-    'get_btag_weight':           get_btag_weight,
+    'get_btag_weight':           get_btag_weight
 }
 
 
